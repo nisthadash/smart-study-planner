@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Smart Study Planner</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app">
+    <header>
+        <h1>Smart Study Planner</h1>
+        <p>Organize your study sessions efficiently</p>
+    </header>
+
+    <div class="input-section">
+        <input type="text" id="subject" placeholder="Subject">
+        <input type="number" id="hours" placeholder="Hours">
+        <input type="date" id="deadline">
+        <button onclick="addTask()">Add Task</button>
+    </div>
+
+    <div id="taskList" class="task-section"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
