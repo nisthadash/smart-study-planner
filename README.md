@@ -33,15 +33,11 @@ This project was developed as a beginner-friendly frontend application to practi
 
 ## 📂 Project Structure
 smart-study-planner/
-
 │
-
 ├── index.html
-
 ├── style.css
-
 ├── script.js
-
 └── README.md
+
 
 
