@@ -5,7 +5,7 @@ A modern web-based study task management application designed to help students o
 ---
 
 ## 🌐 Live Demo
-[Click here to view the project](PASTE-LINK-HERE)
+[Click here to view the project]( https://nisthadash.github.io/smart-study-planner/)
 
 ---
 
@@ -38,3 +38,4 @@ smart-study-planner/
 ├── style.css
 ├── script.js
 └── README.md
+
